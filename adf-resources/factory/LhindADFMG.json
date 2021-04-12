@@ -1,0 +1,9 @@
+{
+	"name": "LhindADFMG",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d1f813a-1eba-43a4-a9ee-8943f15b78a4",
+		"tenantId": "3a07c695-04c0-4968-9040-92133944d9cf"
+	}
+}
